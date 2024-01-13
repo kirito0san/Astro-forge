@@ -14,6 +14,5 @@ body {
   @apply hover:text-white hover:bg-red-800 md:ml-0 text-red-800 md:text-white   flex-col md:mt-0  ml-5 mt-5 md:hover:bg-white w-fit flex px-3 py-2 font-bold text-2xl justify-center items-center capitalize rounded-md md:hover:text-red-800;
 }
 .nav {
-  @apply md:justify-center flex-wrap bg-white md:bg-black  md:w-auto gap-5 text-white  md:flex-row md:static md:h-auto  aLinks  overflow-hidden absolute  z-10  right-0 flex flex-col  transition-all
-  /* @apply flex-wrap w-0 justify-center  md:w-auto gap-5  text-white  md:flex-row md:static md:h-auto  aLinks  overflow-hidden absolute  z-10 bottom-0 right-0  h-screen flex flex-col   transition-all; */;
+  @apply md:justify-center flex-wrap bg-white md:bg-black  md:w-auto gap-5 text-white  md:flex-row md:static md:h-auto  aLinks  overflow-hidden absolute  z-10  right-0 flex flex-col  transition-all;
 }
