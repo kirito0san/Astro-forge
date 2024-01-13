@@ -4,8 +4,9 @@ import LeaderShipTeam from "./components/LeaderShipTeam";
 
 function App() {
   return (
-    <div className="bg-[#775702] h-screen">
-      <div className="bg-[#9F7F09] py-5">
+    <div className="h-screen bg-no-repeat bg-cover ">
+      <div className=" absolute top-0 left-0 w-full -z-10 h-screen"><img src={require(`./image/background.png`)} alt="" /></div>
+      <div className="bg-black ">
         <Header />
       </div>
       {/* <LeaderShipTeam /> */}
