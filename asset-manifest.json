@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Astro-forge/static/css/main.2e02925a.css",
+    "main.js": "/Astro-forge/static/js/main.bcd644d4.js",
+    "index.html": "/Astro-forge/index.html",
+    "main.2e02925a.css.map": "/Astro-forge/static/css/main.2e02925a.css.map",
+    "main.bcd644d4.js.map": "/Astro-forge/static/js/main.bcd644d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e02925a.css",
+    "static/js/main.bcd644d4.js"
+  ]
+}
