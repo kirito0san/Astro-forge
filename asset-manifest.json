@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Astro-forge/static/css/main.701dffce.css",
-    "main.js": "/Astro-forge/static/js/main.7640294b.js",
+    "main.js": "/Astro-forge/static/js/main.f0986d7b.js",
     "static/media/background.png": "/Astro-forge/static/media/background.42645909d6f0154f86c0.png",
     "index.html": "/Astro-forge/index.html",
     "main.701dffce.css.map": "/Astro-forge/static/css/main.701dffce.css.map",
-    "main.7640294b.js.map": "/Astro-forge/static/js/main.7640294b.js.map"
+    "main.f0986d7b.js.map": "/Astro-forge/static/js/main.f0986d7b.js.map"
   },
   "entrypoints": [
     "static/css/main.701dffce.css",
-    "static/js/main.7640294b.js"
+    "static/js/main.f0986d7b.js"
   ]
 }
